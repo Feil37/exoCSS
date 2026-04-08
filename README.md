@@ -1,7 +1,7 @@
 ## 1) Navbar horizontale simple (desktop)
 
 **Objectifs :** apprendre à créer une barre de navigation horizontale.  
-**Contraintes :** pas de positionnement, uniquement des éléments en ligne (`display: inline-block` ou `display: inline`).  
+**Contraintes :** pas de positionnement.  
 
 **Consignes :**
 * Crée un élément principal (comme un conteneur) qui contiendra la navigation.  
@@ -20,8 +20,7 @@
 
 ## 2) “Hero” bandeau d’accueil
 
-**Objectifs :** apprendre à structurer une section d’accueil avec un titre et un bouton.  
-**Contraintes :** pas de positionnement, tout doit se faire dans le flux normal.  
+**Objectifs :** apprendre à structurer une section d’accueil avec un titre et un bouton.   
 
 **Consignes :**
 * Crée une section d’accueil avec un grand titre, un sous-titre, un paragraphe descriptif et un bouton d’action.  
@@ -39,8 +38,7 @@
 
 ## 3) Cards produit (liste 2–3 par ligne)
 
-**Objectifs :** créer plusieurs blocs similaires pour présenter des produits.  
-**Contraintes :** pas de positionnement, disposition en ligne via `inline-block` uniquement.  
+**Objectifs :** créer plusieurs blocs similaires pour présenter des produits.   
 
 **Consignes :**
 * Crée une structure répétée : une image, un titre, un prix et un bouton.  
@@ -98,7 +96,7 @@
 ## 6) Bloc image + texte (mise en page “media object”)
 
 **Objectifs :** apprendre à afficher une image à côté d’un texte.  
-**Contraintes :** pas de flexbox ni de positionnement, utiliser le flot naturel ou un flottement simple.  
+**Contraintes :** pas de flexbox ni de positionnement, utiliser le flot naturel.  
 
 **Consignes :**
 * Crée un bloc contenant une image et un texte.  
@@ -115,8 +113,7 @@
 
 ## 7) Footer multi-colonnes
 
-**Objectifs :** apprendre à structurer un pied de page.  
-**Contraintes :** colonnes créées avec `inline-block` ou flottement, aucun positionnement.  
+**Objectifs :** apprendre à structurer un pied de page.    
 
 **Consignes :**
 * Crée un footer avec un fond différent du reste du site.  
